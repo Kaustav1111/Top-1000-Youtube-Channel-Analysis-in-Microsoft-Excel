@@ -1,5 +1,6 @@
 # Project Description:
 Unveiling the youtube universe through exploratory data analysis on top 1000 youtube channels dataset. 
+
 Objective: To extract valuable insights and trends to guide Google ads clients in optimizing their advertisements and strategies for maximum engagement and reach.
 
 
